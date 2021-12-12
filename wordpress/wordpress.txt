@@ -1,1 +1,8 @@
-
+login
+wp-content
+admin
+wp-includes
+rdf
+wp-admin
+admin
+wp-content/uploads
